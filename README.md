@@ -1,6 +1,6 @@
 # Task-Manager
 
-- An Node.js application that contains APIs for managing tasks.
+- A Node.js application that contains APIs for managing tasks. Ideal for a TODO list application.
 
 ## Features
 
@@ -45,18 +45,18 @@
 
 ## NPM Packages:
 
-- [Express](https://www.npmjs.com/package/express)
-- [bcryptjs](https://www.npmjs.com/package/bcryptjs)
-- [jsonwebtoken](https://www.npmjs.com/package/jsonwebtoken)
-- [multer](https://www.npmjs.com/package/multer)
-- [dotenv](https://www.npmjs.com/package/dotenv)
-- [nodeMailer](https://www.npmjs.com/package/nodemailer)
-- [mongoose](https://www.npmjs.com/package/mongoose)
-- [mongoDB](https://www.npmjs.com/package/mongodb)
-- [validator](https://www.npmjs.com/package/validator)
-- [sharp](https://www.npmjs.com/package/sharp)
+- [x] [Express](https://www.npmjs.com/package/express)
+- [x] [bcryptjs](https://www.npmjs.com/package/bcryptjs)
+- [x] [jsonwebtoken](https://www.npmjs.com/package/jsonwebtoken)
+- [x] [multer](https://www.npmjs.com/package/multer)
+- [x] [dotenv](https://www.npmjs.com/package/dotenv)
+- [x] [nodeMailer](https://www.npmjs.com/package/nodemailer)
+- [x] [mongoose](https://www.npmjs.com/package/mongoose)
+- [x] [mongoDB](https://www.npmjs.com/package/mongodb)
+- [x] [validator](https://www.npmjs.com/package/validator)
+- [x] [sharp](https://www.npmjs.com/package/sharp)
 
 ## Social Links:
 
-- [LinkedIn](https://www.linkedin.com/in/vikas-kumar-6564a7185/)
-- [E-mail](mailto:mr.rajput7547@gmail.com)
+- [x] [LinkedIn](https://www.linkedin.com/in/vikas-kumar-6564a7185/)
+- [x] [E-mail](mailto:mr.rajput7547@gmail.com)
