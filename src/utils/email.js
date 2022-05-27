@@ -15,7 +15,7 @@ const sendWelcomeEmail = (user) => {
     from: process.env.EMAIL_ID,
     to: user.email,
     subject: "Task Manager",
-    text: `Welcome, ${user.name} to Task Manager app`,
+    text: `Welcome, ${user.name} to Task Manager app. Please feel free to reply to this email for any feedback.`,
   };
   sendMail(mailOptions);
 };
